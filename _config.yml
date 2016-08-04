@@ -1,0 +1,14 @@
+layout_spectrum: 0.17423705919645727
+typography_spectrum: 0.3143767274450511
+color:
+  brandStrength: 0.9870823021046817
+  lightness: 0.06324980314821005
+  saturation: 0.6272521298378706
+  rhythmicContrast: 0.2094438853673637
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: pickapastel
